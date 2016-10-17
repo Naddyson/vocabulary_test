@@ -1,0 +1,25 @@
+.container{
+	margin-top:5% !important;
+	
+}
+
+.test{
+    display: none;
+}
+.button_start{
+    margin-top: 10px;
+    float: right;
+}
+.button_submit{
+    float: left;
+    margin-left: 3px;
+}
+.inline{
+    float: left;
+}
+input{
+    float: left;
+}
+h3.answer{
+    color:red;
+}
